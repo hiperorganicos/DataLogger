@@ -1,7 +1,7 @@
 DataLogger
 ==========
 
-Exemplo de gravação de dados em um arquivo com Arduino e Processing
+Gravação de dados de sensores em arquivo de texto com Arduino e Processing
 
 ### arduino_read_send
 
